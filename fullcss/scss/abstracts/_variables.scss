@@ -1,7 +1,9 @@
+//warna utama
 $color-light: rgb(86, 255, 238);
 $color-medium: rgb(20, 187, 170);
 $color-dark: rgb(1, 53, 48);
 
+//warna fitur
 $color-sea-light: rgb(0, 140, 255);
 $color-sea: rgb(4, 22, 61);
 
@@ -11,14 +13,22 @@ $color-forest: rgb(1, 53, 48);
 $color-snow-light: rgb(126,213,111);
 $color-snow: rgb(40,180,133);
 
+//warna text
 $color-text: #777;
 $color-gray: #eee;
 $color-gray-light: #f7f7f7;
+$color-gray-dark: #999;
+$color-footer: #333;
 $color-white: #fff;
 $color-black: rgb(0,0,0);
 
+//warna
+$color-red: red;
+
+//ukuran font
 $default-font: 1.6rem;
 
+//ukuran grid
 $grid-width: 114rem;
 $grid-vertical: 8rem;
 $grid-horizontal: 6rem;
